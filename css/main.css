@@ -1,0 +1,34 @@
+.tmsg_cont {
+    background-color: #fbff3d;
+}
+
+.tmsg_head {
+
+}
+
+.tmsg_time {
+
+}
+
+.tmsg_username {
+
+}
+
+.tmsg_body {
+
+}
+
+form[name="inscription"] .error {
+    background-color: #fac040;
+}
+
+form[name="inscription"] .error_msg {
+    margin-top : 2px;
+    margin-bottom : 2px;
+    background-color: #fac040;
+}
+
+.like_msg {
+    color: #da1120;
+    font-weight: bolder;
+}
